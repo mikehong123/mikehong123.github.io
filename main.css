@@ -1,14 +1,14 @@
 
 element.style {
 }
-main.css:1
+
 h1 {
     font-size: 40px;
     text-align: center;
     margin-top: 200px;
-    font-family: sans-serif;
+    font-family: arial;
 }
-user agent stylesheet
+
 h1 {
     display: block;
     font-size: 2em;
